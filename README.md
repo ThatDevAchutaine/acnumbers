@@ -6,7 +6,9 @@
 
 ## Code Samples
 
-> Soon
+> const acnumbers = require('acnumbers');
+
+> acnumbers.addOne(the number you want to add 1 to);
 
 ## Installation
 
