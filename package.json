@@ -1,0 +1,37 @@
+{
+  "name": "acnumbers",
+  "version": "1.0.0",
+  "description": "A adding package.",
+  "engines": {
+    "node": ">-7.8.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatDevAchutaine/acnumbers.git"
+  },
+  "keywords": [
+    "achutaine",
+    "thatdevachutaine",
+    "numbers",
+    "ac",
+    "acnumbers",
+    "adding"
+  ],
+  "author": "ThatDevAchutaine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatDevAchutaine/acnumbers/issues"
+  },
+  "homepage": "https://github.com/ThatDevAchutaine/acnumbers#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
